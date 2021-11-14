@@ -6,7 +6,17 @@ html,body{
 	width:50px;
 	height:50px;
 }
-.header-img, .about_me, .img_skills {
+.header-img{
+	height:100%;
+	width: 90%;
+}
+
+ .about_me{
+ 	height:100%;
+	width: 90%;
+ }
+
+ .img_skills {
 	height:100%;
 	width: 100%;
 }
