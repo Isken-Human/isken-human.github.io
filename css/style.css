@@ -46,5 +46,5 @@ html,body{
 }
 .card:hover{
  	box-shadow: 0 20px 40px #515151;
- 	ransform: scale(1.1);
+ 	transform: scale(1.1);
 }
